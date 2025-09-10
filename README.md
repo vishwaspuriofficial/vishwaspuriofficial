@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwas Puri</h1>
 <h3 align="center">Full-stack Software Engineer and aspiring Entrepreneur specializing in AI/ML.</h3>
 
-
+I'm a Full-stack Software Engineer and AI/ML Specialist at the University of Toronto, pursuing minors in AI and Business. With 8 technical internships since high school, I've honed my skills across diverse programming languages, frameworks, and cloud platforms, consistently transforming complex challenges into scalable, user-centric solutions. My passion for innovation extends to 20+ hackathons (4x winner, mentor, judge), where I lead impactful projects from building robust software solutions to cutting-edge AI applications. I thrive on technical excellence and user experience, and I'm eager to contribute my skills to drive innovation and shape the future of technology as an aspiring entrepreneur.
 
 
 
